@@ -22,12 +22,12 @@ Anemia is a condition where the blood lacks enough healthy red blood cells. This
 
 ## 🤖 ML Models Used
 
-| Model | Description |
-|-------|-------------|
-| K-Nearest Neighbors (KNN) |
-| Random Forest | 
-| Logistic Regression | 
-| Support Vector Machine (SVM) | 
+ Models
+
+ K-Nearest Neighbors (KNN) 
+ Random Forest  
+ Logistic Regression 
+ Support Vector Machine (SVM)
 
 ---
 

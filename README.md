@@ -24,10 +24,10 @@ Anemia is a condition where the blood lacks enough healthy red blood cells. This
 
  Models
 
- K-Nearest Neighbors (KNN) 
- Random Forest  
- Logistic Regression 
- Support Vector Machine (SVM)
+ -K-Nearest Neighbors (KNN) 
+ -Random Forest  
+ -Logistic Regression 
+ -Support Vector Machine (SVM)
 
 ---
 
